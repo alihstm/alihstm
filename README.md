@@ -4,16 +4,19 @@ A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I 
 
 ## 🛠 Skills & Tools
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Figma](https://img.shields.io/badge/Figma-%2350C0F0.svg?style=for-the-badge&logo=figma&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%23367C8C.svg?style=for-the-badge&logo=python&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-%23E94E77.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,python,git,github" />
+  </a>
+</p>
 
 ## 🌱 I’m currently learning
 
-- ![Figma](https://img.shields.io/badge/Figma-%2350C0F0.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
 
 ## 📫 How to reach me
 
@@ -31,6 +34,18 @@ A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I 
 I’m Ali, a frontend developer with a flair for creating seamless user experiences. I specialize in crafting responsive and dynamic web interfaces that not only look good but also function beautifully across all devices. 📱💻
 
 My journey in web development began with a curiosity for how web pages are built and a desire to bring my own designs to life. This curiosity turned into a professional pursuit, and I’ve since dedicated myself to learning and growing in the tech space. 🚀
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reza-Golnari/Reza-Golnari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reza-Golnari/Reza-Golnari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reza-Golnari/Reza-Golnari/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+ 
+<br>
+
+<div>
 
 ## GitHub Stats
 
