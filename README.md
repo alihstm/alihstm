@@ -2,6 +2,9 @@
 
 A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I love creating beautiful and functional web pages.
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" class="transparent shrinkToFit" width="281" height="211"> <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" class="transparent shrinkToFit" width="211" height="211">
+
+
 ## 🛠 Skills & Tools
 
 <p align="start">
