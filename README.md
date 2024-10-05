@@ -30,7 +30,7 @@ A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I 
 
 - 💳 [Credit Card Payment](https://github.com/alihstm/Credit-Card-Payment)
 - 💸 [Tip Calculator App](https://github.com/alihstm/Tip-Calculator-app)
-- 🕶️ [Social Links Card](https://github.com/alihstm/Social-Links-Card)
+- 🏡 [Property Sales Landing Page](https://github.com/alihstm/Luxio-landing-page)
 
 ## 🤔 About Me
 
