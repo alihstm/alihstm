@@ -9,7 +9,7 @@ A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I 
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,figma,git,github" />
   </a>
 </p>
 
