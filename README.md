@@ -1,16 +1,8 @@
 # 👋 Hi, I'm Ali Shabani 
 
-A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I love creating beautiful and functional web pages.
+A passionate Front-end Developer with expertise in Front-end tools and frameworks. I love creating beautiful and functional web pages.
 
-<p align="start">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" class="transparent">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" class="transparent">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" class="transparent">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" class="transparent">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" class="transparent">
 
 ## 🛠 Skills & Tools
 
@@ -36,7 +28,7 @@ A passionate Front-end Developer with expertise in HTML, CSS, and JavaScript. I 
 ## 📂 Projects
 
 - 💳 [Credit Card Payment](https://github.com/alihstm/Credit-Card-Payment)
-- 💸 [Tip Calculator App](https://github.com/alihstm/Tip-Calculator-app)
+- 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
 - 🏡 [Property Sales Landing Page](https://github.com/alihstm/Luxio-landing-page)
 
 ## 🤔 About Me
