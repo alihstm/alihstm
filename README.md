@@ -8,7 +8,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vite,git,github,vercel" />
   </a>
 </p>
 
