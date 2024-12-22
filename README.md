@@ -27,7 +27,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 ## 📂 Projects
 
-- 💳 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
+- 🐕 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
 - 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
 - 🏡 [Property Sales Landing Page](https://github.com/alihstm/Luxio-landing-page)
 
