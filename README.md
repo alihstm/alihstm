@@ -8,7 +8,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vite,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,vite,git,github,vercel" />
   </a>
 </p>
 
@@ -52,13 +52,15 @@ My journey in web development began with a curiosity for how web pages are built
 ## GitHub Stats
 
 ### 📊 My GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihstm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&bg_color=0D1117&border_color=ffffff&text_color=ffffff&icon_color=3498db)
+![](https://github-readme-stats.vercel.app/api?username=alihstm&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihstm&layout=compact&theme=radical&bg_color=0D1117&border_color=ffffff&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihstm&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihstm&theme=radical&background=0D1117&border=ffffff&ring=3498db&fire=3498db&currStreakLabel=3498db)
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ## 💡 Interests
 
