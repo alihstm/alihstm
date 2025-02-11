@@ -24,24 +24,30 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-## 🌱 I’m currently learning
+## <img src="https://github.com/user-attachments/assets/f6c6d6fa-4815-41e4-a9f2-b21fd8e2e34b" style="width: 80px;"> I’m currently learning
+
 
 <p align="start">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
-## 📫 How to reach me
+<br>
+
+## <img src="https://github.com/user-attachments/assets/c351def8-e06f-4f09-96d5-8135b9a4950b" style="width: 80px;"> How to reach me
+
 
 - ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Projects
+## <img src="https://github.com/user-attachments/assets/7d0b668d-376a-4803-ab59-ee27c988cce6" style="width: 60px;"> Projects
+
 
 - 🐕 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
 - 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
 - 💪 [Fitness Website](https://github.com/alihstm/Fitness-Website)
 
-## 🤔 About Me
+## <img src="https://github.com/user-attachments/assets/89498dd6-3bee-4d7f-85df-e460da177745" style="width: 60px;"> About Me
+
 
 I’m Ali, a frontend developer with a flair for creating seamless user experiences. I specialize in crafting responsive and dynamic web interfaces that not only look good but also function beautifully across all devices. 📱💻
 
