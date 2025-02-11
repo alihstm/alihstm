@@ -79,7 +79,8 @@ My journey in web development began with a curiosity for how web pages are built
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-## 💡 Interests
+## <img src="https://github.com/user-attachments/assets/5adb4972-d33d-472e-93f6-e9ed64a5e435" style="width:60px;"> Interests
+
 
 - Exploring new web technologies
 - Designing user-friendly interfaces
