@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Ali 
+# 👋 Hi, <img src="https://github.com/user-attachments/assets/d67e9772-352c-4152-9dcd-f06871a4bc35" style="width: 32px;"> I'm Ali <img src="https://github.com/user-attachments/assets/d67e9772-352c-4152-9dcd-f06871a4bc35" style="width: 32px;">
 
 A passionate Front-end Developer with expertise in Front-end tools and frameworks. I love creating beautiful and functional web pages.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" class="transparent">
+![banner](https://github.com/user-attachments/assets/07c0b755-da72-4f6c-8940-c5e1ec7d5ebe)
+
 
 ## 🛠 Skills & Tools
 
@@ -58,7 +59,8 @@ My journey in web development began with a curiosity for how web pages are built
 
 <div>
 
-## GitHub Stats
+## <img src="https://github.com/user-attachments/assets/e2d005fc-0f31-4a7e-84fd-bb9c24119e57" style="width: 100px;">
+
 
 ### 📊 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=alihstm&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
