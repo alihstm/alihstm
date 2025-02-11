@@ -8,7 +8,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vite,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,materialui,regex,npm,vite,git,github,vercel" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 ## 📫 How to reach me
 
-- 📧 Email: [alishbni2023@gmail.com](mailto:alishbni2023@gmail.com)
+- 📧 Gmail: [alishbni2023@gmail.com](mailto:alishbni2023@gmail.com)
 - 💻 GitHub: [alhstm](https://github.com/alihstm)
 
 ## 📂 Projects
