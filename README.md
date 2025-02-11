@@ -29,7 +29,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 - 🐕 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
 - 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
-- 🏡 [Fitness Website](https://github.com/alihstm/Fitness-Website)
+- 💪 [Fitness Website](https://github.com/alihstm/Fitness-Website)
 
 ## 🤔 About Me
 
