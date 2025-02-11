@@ -8,7 +8,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,vite,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vite,git,github,vercel" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 - 🐕 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
 - 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
-- 🏡 [Property Sales Landing Page](https://github.com/alihstm/Luxio-landing-page)
+- 🏡 [Fitness Website](https://github.com/alihstm/Fitness-Website)
 
 ## 🤔 About Me
 
