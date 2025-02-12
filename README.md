@@ -74,6 +74,9 @@ My journey in web development began with a curiosity for how web pages are built
 ### 🌟 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihstm&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=alihstm&style=for-the-badge&color=0088CC" alt="Profile Views"/>
+
 
 ## ✍️ Random Dev Quote
 
