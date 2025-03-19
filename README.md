@@ -44,9 +44,9 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 ## <img src="https://github.com/user-attachments/assets/7d0b668d-376a-4803-ab59-ee27c988cce6" style="width: 60px;"> Projects
 
 
-- 🐕 [Pet Shop Website](https://github.com/alihstm/PetShop-Website)
+- 🐕 [Pet Shop Website](https://github.com/alihstm/Shopet)
 - 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
-- 💪 [Fitness Website](https://github.com/alihstm/Fitness-Website)
+- 💪 [Fitness Website](https://github.com/alihstm/X-Power)
 
 ## <img src="https://github.com/user-attachments/assets/89498dd6-3bee-4d7f-85df-e460da177745" style="width: 60px;"> About Me
 
