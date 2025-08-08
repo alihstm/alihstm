@@ -91,3 +91,5 @@ My journey in web development began with a curiosity for how web pages are built
 - Exploring new web technologies
 - Designing user-friendly interfaces
 - Contributing to open-source projects
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"  />
