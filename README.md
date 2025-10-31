@@ -9,22 +9,7 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,materialui,npm,vite,git,github,vercel,cloudflare,vscode" />
 </p>
 
 ## <img src="https://github.com/user-attachments/assets/f6c6d6fa-4815-41e4-a9f2-b21fd8e2e34b" style="width: 80px;"> I’m currently learning
@@ -39,15 +24,17 @@ A passionate Front-end Developer with expertise in Front-end tools and framework
 ## <img src="https://github.com/user-attachments/assets/c351def8-e06f-4f09-96d5-8135b9a4950b" style="width: 80px;"> How to reach me
 
 
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishbni2026@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihstm)
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alishbni_48)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ali_shabani.25)
 
 ## <img src="https://github.com/user-attachments/assets/7d0b668d-376a-4803-ab59-ee27c988cce6" style="width: 60px;"> Projects
 
 
-- 🐕 [Pet Shop Website](https://github.com/alihstm/Shopet)
-- 📋 [Manage Team Landing Page](https://github.com/alihstm/Manage-Team-Project)
-- 💪 [Fitness Website](https://github.com/alihstm/X-Power)
+- 🤝 [DayMate](https://github.com/alihstm/DayMate)
+- 📋 [Ticky Chrome Extension](https://github.com/alihstm/Ticky-Chrome-Extension)
+- 💡 [Fardato](https://github.com/alihstm/Fardato)
 
 ## <img src="https://github.com/user-attachments/assets/89498dd6-3bee-4d7f-85df-e460da177745" style="width: 60px;"> About Me
 
